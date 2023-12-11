@@ -1,3 +1,3 @@
 https://gitlab.com/mazestic
 
-https://gitlab.com/imtk
+https://gitlab.com/mazestic/gecko
